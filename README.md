@@ -23,15 +23,26 @@ With 7+ years of working experience, I've had the chance to dive deep into the w
 📬 **Let's connect!** [LinkedIn](https://linkedin.com/in/yewkoktang)
 
 
+
+
+
+
+<!--
+**yewkoktang/yewkoktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/yewkoktang/count.svg" alt="Visitor's Count" />
 </div>
 
 
+## Data Analysis Projects
 
-<!--
-**yewkoktang/yewkoktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project Link | Completion Date | Tools | Project Description |
+|-------------|----------------|-------|----------------------|
+| [🔗 Sales Data Analysis](https://github.com/yourusername/sales-analysis) | Jan 2024 | Python, Pandas, Matplotlib | Analyzed sales trends over five years, identifying key revenue drivers and customer behavior insights. |
+| [🔗 SQL for Data Exploration](https://github.com/yourusername/sql-project) | Mar 2024 | SQL, PostgreSQL | Used SQL queries to explore a large database, extracting key insights on customer segmentation and purchase behavior. |
+
 
 ## About me
 

@@ -23,6 +23,12 @@ With 7+ years of working experience, I've had the chance to dive deep into the w
 📬 **Let's connect!** [LinkedIn](https://linkedin.com/in/yewkoktang)
 
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/yewkoktang/count.svg" alt="Visitor's Count" />
+</div>
+
+
 
 <!--
 **yewkoktang/yewkoktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

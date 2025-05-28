@@ -14,7 +14,7 @@ Data-driven professional with 7 years of cross-industry experience applying anal
 
 🔹📚 **Courses:** Google Data Analytics, Microsoft Power BI Data Analyst
 
-🔹📜 **Certifications:** PL-300: Microsoft Certified Power BI Data Analyst Associate, DP-600: Microsoft Certified Fabric Analytics Engineer Associate
+🔹📜 **Certifications:** PL-300: Power BI Data Analyst Associate, DP-600: Fabric Analytics Engineer Associate
 
 🔹🧬 **Languages:** Chinese, English, Malay
 

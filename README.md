@@ -5,7 +5,7 @@
 
 ## 🗺 About Me
 
-With 7+ years of working experience, I've had the chance to dive deep into the worlds of healthcare and e-commerce, using data to drive meaningful change. I'm passionate about making sense of complex data, and I love turning raw numbers into actionable insights.
+Data-driven professional with 7 years of cross-industry experience applying analytics in healthcare, e-commerce, and retail settings. Skilled in turning complex datasets into clear, actionable insights using Excel, Power BI, SQL, and Python.
 
 
 🔹📌 **Business Domains:** Healthcare, E-commerce, and Retail (Textile Industry)
@@ -13,6 +13,8 @@ With 7+ years of working experience, I've had the chance to dive deep into the w
 🔹📊 **Data Skills:** Excel, Power BI, SQL, Python
 
 🔹📚 **Courses:** Google Data Analytics, Microsoft Power BI Data Analyst
+
+🔹📜 **Certifications:** PL-300: Microsoft Certified Power BI Data Analyst Associate, DP-600: Microsoft Certified Fabric Analytics Engineer Associate
 
 🔹🧬 **Languages:** Chinese, English, Malay
 

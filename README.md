@@ -15,7 +15,7 @@ Performance-driven AI & automation professional specializing in building scalabl
 📈 **High-Impact Projects** 
 
 🔹AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  
-🔹Automation: Built automated reporting systems using GAS, reducing manual workload and error rates. 
+🔹Automation: Designed an automated reporting system using GAS, reducing manual workload and error rates. 
 🔹Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
 🔹Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
 

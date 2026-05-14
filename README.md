@@ -16,6 +16,7 @@ Performance-driven AI & automation professional specializing in building scalabl
 
 🔹AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  
 🔹Automation: Built automated reporting systems using Google Apps Script, reducing manual workload and error rates. 
+
 🔹Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
 🔹Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
 

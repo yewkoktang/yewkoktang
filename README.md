@@ -6,27 +6,30 @@
 
 Performance-driven AI & automation professional specializing in building scalable, AI-driven operational systems. I bridge the gap between complex data and autonomous execution by designing end-to-end pipelines that drastically improve organizational efficiency.  
 
-🔹🛠️ **Tech Stack & Expertise** 
-AI & Automation: n8n (Expert), Google Apps Script, API Integration    
-Data Analytics: Power BI, Microsoft Fabric, SQL, Python, Google Workspace   
-Infrastructure: Docker, NAS   
+🛠️ **Tech Stack & Expertise** 
 
-🔹📈 **High-Impact Projects** 
-AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  
-LLM Evaluation Framework: Designed an OpenAI-based framework to benchmark AI vs. human performance across 8 dimensions.  Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
-Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
+🔹AI & Automation: n8n (Expert), Google Apps Script, API Integration    
+🔹Data Analytics: Power BI, Microsoft Fabric, SQL, Python, Google Workspace   
+🔹Infrastructure: Docker, NAS   
 
-🔹📜 **Certifications:** 
-Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)   
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)   
-Google: Data Analytics Professional Certificate   
-IBM TechXchange: Virtual Agent Implementation   
+📈 **High-Impact Projects** 
 
-🔹🎓 **Education:** B.Sc. in Biomedical Science.  
+🔹AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  
+🔹LLM Evaluation Framework: Designed an OpenAI-based framework to benchmark AI vs. human performance across 8 dimensions.  🔹Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
+🔹Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
 
-🔹📌 **Experience:** 10 years across AI Operations, E-commerce, and Healthcare.  
+📜 **Certifications:** 
 
-🔹🧬 **Languages:** Native in Mandarin; Professional in English and Malay.  
+🔹Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)   
+🔹Microsoft Certified: Power BI Data Analyst Associate (PL-300)   
+🔹Google: Data Analytics Professional Certificate   
+🔹IBM TechXchange: Virtual Agent Implementation   
+
+🎓 **Education:** B.Sc. in Biomedical Science.  
+
+📌 **Experience:** 10 years across AI Operations, E-commerce, and Healthcare.  
+
+🧬 **Languages:** Native in Mandarin; Professional in English and Malay.  
 
 
 📫 **Let's connect!**  [LinkedIn](https://linkedin.com/in/yewkoktang)

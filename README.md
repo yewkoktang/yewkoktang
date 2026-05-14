@@ -2,29 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+I'm+Yew+Kok+Tang!+👋;+Thanks+for+visiting+my+profile+😊" />
 </h1>
 
-
 ## 🗺 About Me
 
-Data-driven professional with 7 years of cross-industry experience applying analytics in healthcare, e-commerce, and retail settings. Skilled in turning complex datasets into clear, actionable insights using Excel, Power BI, SQL, and Python.
+AI Workflow Engineer & Automation Specialist
+Performance-driven professional specializing in building scalable, AI-driven operational systems. I bridge the gap between complex data and autonomous execution by designing end-to-end pipelines that drastically improve organizational efficiency.  
+
+🔹🛠️ **Tech Stack & Expertise** Automation & Orchestration: n8n (Expert), Google Apps Script, API Integration   Applied AI: OpenAI API Integration, Prompt Engineering, LLM Benchmarking, AI Chatbot Refactoring   Data Engineering & Analytics: Power BI, Microsoft Fabric, SQL, Python, Anomaly Detection   Infrastructure: Docker, NAS   
+
+🔹📈 **High-Impact Projects** AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  LLM Evaluation Framework: Designed an OpenAI-based framework to benchmark AI vs. human performance across 8 dimensions.  Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
+
+🔹📜 **Certifications:** Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)   Microsoft Certified: Power BI Data Analyst Associate (PL-300)   Google: Data Analytics Professional Certificate   IBM TechXchange: Virtual Agent Implementation   
+
+🔹🎓 **Education:** B.Sc. in Biomedical Science.  
+
+🔹📌 **Experience:** 10 years across AI Operations, E-commerce, and Healthcare.  
+
+🔹🧬 **Languages:** Native/Bilingual in Mandarin; Professional in English and Malay.  
 
 
-🔹📌 **Business Domains:** Healthcare, E-commerce, and Retail (Textile Industry)
-
-🔹📊 **Data Skills:** Excel, Power BI, SQL, Python
-
-🔹📚 **Courses:** Google Data Analytics, Microsoft Power BI Data Analyst
-
-🔹📜 **Certifications:** PL-300: Power BI Data Analyst Associate, DP-600: Fabric Analytics Engineer Associate
-
-🔹🧬 **Languages:** Chinese, English, Malay
-
-🔹🎓 **Education:** B.Sc. in Biomedical Science
-
-
-
-📬 **Let's connect!** [LinkedIn](https://linkedin.com/in/yewkoktang)
-
-
+📫 **Let's build something autonomous!**  [LinkedIn](https://linkedin.com/in/yewkoktang)
 
 
 

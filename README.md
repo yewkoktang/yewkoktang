@@ -15,7 +15,7 @@ Performance-driven AI & automation professional specializing in building scalabl
 📈 **High-Impact Projects** 
 
 🔹AI Content Engine: Engineered n8n workflows to automate 20+ daily articles with natural language quality.  
-🔹LLM Evaluation Framework: Designed an OpenAI-based framework to benchmark AI vs. human performance across 8 dimensions.  🔹Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
+🔹Automation: Built automated reporting systems using Google Apps Script, reducing manual workload and error rates. 🔹Efficiency Gains: Built a QA system that reduced manual review time by 70% (saving ~10 hours daily).  
 🔹Anomaly Detection: Developed real-time alerting mechanisms using 7-day moving averages for operational response.
 
 📜 **Certifications:** 
